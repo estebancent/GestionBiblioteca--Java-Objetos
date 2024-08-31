@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GestionBibliotecaVisual
+comment0.text=\r\n\ Ejecutable\ con\ Interfaz\ Grafica\ para\ la\ Gestion\ de\ una\ Bibioteca\r\n\ \r\n\ \ @author\ Centurion\ Esteban,\ Benitez\ Natalia,\ Benitez\ Gonzalo,\ Durand\ Emilio,Gonzales\ Francisco.\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=VentanaAdministracion
+comment0.text=\r\n\ Ventana\ Administrativa\ para\ la\ seleccion\ de\ Carga\ o\ Visualizacion\ de\ Datos.\r\n\ \r\n\ \ @author\ Centurion\ Esteban,\ Benitez\ Natalia,\ Benitez\ Gonzalo,\ Durand\ Emilio,Gonzales\ Francisco.\r\n\ \r\n
+comment1.params=
+comment1.target=VentanaAdministracion()
+comment1.text=\r\n\ Contructor\ de\ Objetos\ de\ la\ Clase\ Ventana\ Administracion\r\n
+comment2.params=p_biblioteca
+comment2.target=void\ setBiblioteca(Biblioteca)
+comment3.params=
+comment3.target=Biblioteca\ getBiblioteca()
+comment4.params=
+comment4.target=void\ iniciarComponentesVentana()
+comment4.text=\r\n\ Inicializa\ los\ Componentes\ que\ se\ usaran\ en\ la\ Ventana.\r\n
+comment5.params=
+comment5.target=void\ crearPaneles()
+comment5.text=\r\n\ Genera\ un\ Panel\ sobre\ el\ cual\ se\ trabajara\ con\ Etiquetas\ y\ Botones.\r\n
+comment6.params=
+comment6.target=void\ etiquetasDelPanel()
+comment6.text=\r\n\ Crea\ las\ Etiquetas\ que\ se\ usaran\ y\ las\ ubica\ en\ el\ Panel.\r\n
+comment7.params=
+comment7.target=void\ botonesDelPanel()
+comment7.text=\r\n\ Crea\ los\ Botones\ que\ se\ usaran\ y\ las\ ubica\ en\ el\ Panel.\r\n
+comment8.params=event
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.text=\r\n\ Gestiona\ la\ Escucha\ de\ los\ Botones\ del\ Panel\ y\ realiza\ la\ Accion\ correspondiente\ al\ boton\ presionado.\r\n
+numComments=9
